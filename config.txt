@@ -11,6 +11,7 @@ Difficulty3
 
 success:
 11736
+11688
 
 on-going:
 3260
